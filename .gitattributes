@@ -1,2 +1,2 @@
 * linguist-vendored
-*.python3 linguist-vendored=true
+*.python linguist-vendored=true
